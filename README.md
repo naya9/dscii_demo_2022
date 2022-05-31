@@ -5,3 +5,5 @@ Project creation date: May 31 2022
 
 
 author: Nayanika Gunvante
+
+cloned project into jupyter by using HTTPS url
